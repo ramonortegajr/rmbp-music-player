@@ -1,0 +1,67 @@
+C:\Users\ACEY\AppData\Local\Temporary Projects\RamBon MusicPlayer\bin\Debug\RamBon MusicPlayer.exe.config
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\RamBon MusicPlayer.exe.config
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\RamBon MusicPlayer.exe
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\RamBon MusicPlayer.pdb
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\obj\Debug\RamBon_MusicPlayer.Properties.Resources.resources
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\obj\Debug\RamBon MusicPlayer.csproj.GenerateResource.Cache
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\obj\Debug\RamBon MusicPlayer.exe
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\obj\Debug\RamBon MusicPlayer.pdb
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.Core.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.Drawer.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.Drawer.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.xml
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\obj\Debug\RamBon MusicPlayer.csproj.ResolveComReference.cache
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\obj\Debug\RamBon_MusicPlayer.FrmDeveloper.resources
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\obj\Debug\RamBon MusicPlayer.csprojResolveAssemblyReference.cache
+C:\Users\ACEY\Desktop\C# Craps\RamBon MusicPlayer\RamBon MusicPlayer\obj\Debug\RamBon_MusicPlayer.RMP.resources
